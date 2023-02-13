@@ -9,3 +9,8 @@
 .card-text {
     text-align: center;
 }
+
+.band-info {
+    display: flex;
+    justify-content: space-evenly;
+}
