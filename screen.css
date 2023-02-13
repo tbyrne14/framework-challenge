@@ -1,5 +1,11 @@
 .card {
     max-width: 1000px;
-    justify-content: center;
-    border: 1px solid #000000;
+}
+
+.card-title {
+    text-align: center;
+}
+
+.card-text {
+    text-align: center;
 }
